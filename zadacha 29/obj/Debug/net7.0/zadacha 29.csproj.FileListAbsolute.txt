@@ -1,0 +1,15 @@
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.csproj.AssemblyReference.cache
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.GeneratedMSBuildEditorConfig.editorconfig
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.AssemblyInfoInputs.cache
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.AssemblyInfo.cs
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.csproj.CoreCompileInputs.cache
+D:\dz\zadacha 29\bin\Debug\net7.0\zadacha 29.exe
+D:\dz\zadacha 29\bin\Debug\net7.0\zadacha 29.deps.json
+D:\dz\zadacha 29\bin\Debug\net7.0\zadacha 29.runtimeconfig.json
+D:\dz\zadacha 29\bin\Debug\net7.0\zadacha 29.dll
+D:\dz\zadacha 29\bin\Debug\net7.0\zadacha 29.pdb
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.dll
+D:\dz\zadacha 29\obj\Debug\net7.0\refint\zadacha 29.dll
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.pdb
+D:\dz\zadacha 29\obj\Debug\net7.0\zadacha 29.genruntimeconfig.cache
+D:\dz\zadacha 29\obj\Debug\net7.0\ref\zadacha 29.dll
